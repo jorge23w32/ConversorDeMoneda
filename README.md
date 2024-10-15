@@ -26,4 +26,4 @@
 - **ExchangeRate-API**: Regístrate y obtén una clave de API gratuita en [ExchangeRate-API](https://www.exchangerate-api.com/). Necesitarás esta clave para realizar las solicitudes a la API.
 - **Dependencias**:
   - Gson: Para el manejo de JSON.
-  - Biblioteca para realizar llamadas a APIs (puedes usar `HttpURLConnection` o una librería como Apache HttpClient).
+  - Biblioteca para realizar llamadas a APIs.
